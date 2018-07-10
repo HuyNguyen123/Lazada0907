@@ -33,7 +33,7 @@ import java.util.List;
 
 public class TrangChuActivity extends AppCompatActivity implements ViewXuLyMenu{
 
-    public static final String SERVER_NAME = "http://192.168.1.2:81/lazada/loaisanpham.php";
+    public static final String SERVER_NAME = "http://192.168.42.242:81/lazada/loaisanpham.php";
 
     private Toolbar toolbar;
     private TabLayout tabLayout;
